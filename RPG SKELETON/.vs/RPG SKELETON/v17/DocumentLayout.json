@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\controllers\\skill_controllers\\sword_skill_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\skill_controllers\\sword_skill_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\boss\\bossbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss\\bossbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\boss\\enemy_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss\\enemy_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\university\\pru\\pru-rpg-14-main\\rpg skeleton\\assets\\scripts\\enemy\\boss\\enemy_bossanimationtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss\\enemy_bossanimationtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\boss\\bossattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss\\bossattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\player\\playerdashstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerdashstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\skills\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skills\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\skeleton\\skeletongroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\skeletongroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\item\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\stats\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\stats\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\skeleton\\skeletonstunnedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\skeletonstunnedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\boss\\bossgroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss\\bossgroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\boss\\bossmovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss\\bossmovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\skeleton\\skeletonbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4709810-AE80-2250-3AEB-0B9B00461344}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\skeletonbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\assets\\scripts\\enemy\\boss\\bosslongdistanceattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\enemy\\boss\\bosslongdistanceattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerDashState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Player\\PlayerDashState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerDashState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Player\\PlayerDashState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerDashState.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:52:46.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BossBattleState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\BossBattleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss\\BossBattleState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\BossBattleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss\\BossBattleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:13:43.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy_BossAnimationTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\Enemy_BossAnimationTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss\\Enemy_BossAnimationTrigger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\Enemy_BossAnimationTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss\\Enemy_BossAnimationTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:19:27.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy_Boss.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\Enemy_Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss\\Enemy_Boss.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\Enemy_Boss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss\\Enemy_Boss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:22:33.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sword_Skill_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Controllers\\Skill_Controllers\\Sword_Skill_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\Skill_Controllers\\Sword_Skill_Controller.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Controllers\\Skill_Controllers\\Sword_Skill_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\Skill_Controllers\\Sword_Skill_Controller.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAewPwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:55:30.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\SettingsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsMenu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\SettingsMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingsMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwBwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:10:40.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:18:13.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BossAttackState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\BossAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss\\BossAttackState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\BossAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss\\BossAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:13:47.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BossLongDIstanceAttackState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\BossLongDIstanceAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss\\BossLongDIstanceAttackState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\BossLongDIstanceAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss\\BossLongDIstanceAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:07:57.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:12:12.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Portal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Portal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Portal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Portal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Portal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:54:14.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemObject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\ItemObject.cs",
+              "RelativeDocumentMoniker": "Assets\\ItemObject.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\ItemObject.cs",
+              "RelativeToolTip": "Assets\\ItemObject.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:01:29.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CharacterStats.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAwDkBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:20:02.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:52:40.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Skills\\Skill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Skills\\Skill.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Skills\\Skill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Skills\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:57:26.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Item\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\ItemData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Item\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:27:37.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SkeletonGroundedState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonGroundedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonGroundedState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonGroundedState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonGroundedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:38:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NotificationManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\NotificationManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NotificationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:28:25.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:18:24.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SkeletonStunnedState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonStunnedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonStunnedState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonStunnedState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonStunnedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:06:01.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Entity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:27:03.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SkeletonBattleState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:18:49.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BossMoveState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\BossMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss\\BossMoveState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\BossMoveState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss\\BossMoveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:30:49.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BossGroundedState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\BossGroundedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss\\BossGroundedState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Boss\\BossGroundedState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss\\BossGroundedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:36:36.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\University\\PRU\\pru-rpg-14-main\\RPG SKELETON\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAApwHQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:18:48.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
